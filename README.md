@@ -45,7 +45,6 @@ Código : 1
 Nome Joao
 Salário liquido: 1360.50
 Bonus: 95.24
-
 Código 2: 2
 Nome: Pedro
 Salário líquido: 3240.00
